@@ -24,7 +24,7 @@
       font-family: 'Poppins', sans-serif;
     }
   </style>
-  <title>Hallo Dek | {{ $title }}</title>
+  <title>Automotif Blog | {{ $title }}</title>
 </head>
 
 <body>
